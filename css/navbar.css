@@ -1,0 +1,31 @@
+
+.navbar-default {
+    color: #fff;
+    text-shadow: 2px 2px #000;
+}
+
+.navbar-default .navbar-brand {
+    font-weight: 900;
+    color: #fff;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus,
+.navbar-default .navbar-brand:active,
+.navbar-default .navbar-brand.active {
+    color: #cc9900;
+}
+
+.intro-lead-in {
+    text-shadow: 2px 2px #000;
+}
+
+.intro-heading {
+    text-shadow: 2px 2px #000;
+}
+
+.btn-xl {
+    background-color: #cc9900;
+    border-color: #cc9900;
+}
