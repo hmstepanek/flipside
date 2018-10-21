@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on FlipSide</title>
-    <link>https://www.flipsidehorses.com/tags/</link>
+    <link>https://hmstepanek.github.io/flipside/tags/</link>
     <description>Recent content in Tags on FlipSide</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://www.flipsidehorses.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hmstepanek.github.io/flipside/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Development</title>
-      <link>https://www.flipsidehorses.com/tags/development/</link>
+      <link>https://hmstepanek.github.io/flipside/tags/development/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://www.flipsidehorses.com/tags/development/</guid>
+      <guid>https://hmstepanek.github.io/flipside/tags/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Go</title>
-      <link>https://www.flipsidehorses.com/tags/go/</link>
+      <link>https://hmstepanek.github.io/flipside/tags/go/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://www.flipsidehorses.com/tags/go/</guid>
+      <guid>https://hmstepanek.github.io/flipside/tags/go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Golang</title>
-      <link>https://www.flipsidehorses.com/tags/golang/</link>
+      <link>https://hmstepanek.github.io/flipside/tags/golang/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://www.flipsidehorses.com/tags/golang/</guid>
+      <guid>https://hmstepanek.github.io/flipside/tags/golang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Templates</title>
-      <link>https://www.flipsidehorses.com/tags/templates/</link>
+      <link>https://hmstepanek.github.io/flipside/tags/templates/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://www.flipsidehorses.com/tags/templates/</guid>
+      <guid>https://hmstepanek.github.io/flipside/tags/templates/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Themes</title>
-      <link>https://www.flipsidehorses.com/tags/themes/</link>
+      <link>https://hmstepanek.github.io/flipside/tags/themes/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://www.flipsidehorses.com/tags/themes/</guid>
+      <guid>https://hmstepanek.github.io/flipside/tags/themes/</guid>
       <description></description>
     </item>
     

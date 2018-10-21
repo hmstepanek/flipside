@@ -3,77 +3,77 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.flipsidehorses.com/posts/creating-a-new-theme/</loc>
+    <loc>https://hmstepanek.github.io/flipside/posts/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.flipsidehorses.com/categories/</loc>
+    <loc>https://hmstepanek.github.io/flipside/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.flipsidehorses.com/tags/development/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.flipsidehorses.com/categories/development/</loc>
+    <loc>https://hmstepanek.github.io/flipside/tags/development/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.flipsidehorses.com/</loc>
+    <loc>https://hmstepanek.github.io/flipside/categories/development/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.flipsidehorses.com/tags/go/</loc>
+    <loc>https://hmstepanek.github.io/flipside/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.flipsidehorses.com/tags/golang/</loc>
+    <loc>https://hmstepanek.github.io/flipside/tags/go/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.flipsidehorses.com/categories/golang/</loc>
+    <loc>https://hmstepanek.github.io/flipside/tags/golang/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.flipsidehorses.com/categories/index/</loc>
+    <loc>https://hmstepanek.github.io/flipside/categories/golang/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.flipsidehorses.com/posts/</loc>
+    <loc>https://hmstepanek.github.io/flipside/categories/index/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.flipsidehorses.com/tags/</loc>
+    <loc>https://hmstepanek.github.io/flipside/posts/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.flipsidehorses.com/tags/templates/</loc>
+    <loc>https://hmstepanek.github.io/flipside/tags/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.flipsidehorses.com/tags/themes/</loc>
+    <loc>https://hmstepanek.github.io/flipside/tags/templates/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hmstepanek.github.io/flipside/tags/themes/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
